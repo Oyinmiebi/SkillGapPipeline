@@ -1,0 +1,39 @@
+                                               precision    recall  f1-score   support
+
+               Business Development Associate       0.00      0.00      0.00         1
+               Business Development Executive       1.00      1.00      1.00         1
+                 Business Development Manager       0.40      0.18      0.25        11
+          Business Development Representative       0.25      0.43      0.32         7
+              Business Development Specialist       0.00      0.00      0.00         1
+             Director of Business Development       0.00      0.00      0.00         1
+                          Director of Finance       0.25      0.33      0.29         3
+                  Director of Human Resources       0.00      0.00      0.00         1
+           Director of Information Technology       0.00      0.00      0.00         2
+                              Finance Manager       1.00      0.33      0.50         3
+                    Human Resources Assistant       0.33      1.00      0.50         1
+             Human Resources Business Partner       0.33      0.33      0.33         3
+                  Human Resources Coordinator       0.00      0.00      0.00         2
+                     Human Resources Director       0.00      0.00      0.00         1
+                   Human Resources Generalist       0.40      0.57      0.47         7
+                      Human Resources Manager       0.60      0.50      0.55         6
+                   Human Resources Specialist       0.00      0.00      0.00         2
+             Information Technology Help Desk       0.00      0.00      0.00         1
+               Information Technology Manager       0.00      0.00      0.00         2
+   Information Technology Project Coordinator       0.50      0.50      0.50         2
+       Information Technology Project Manager       0.50      0.50      0.50         2
+            Information Technology Specialist       0.00      0.00      0.00         2
+    Information Technology Support Specialist       0.00      0.00      0.00         3
+    Information Technology Support Technician       0.00      0.00      0.00         1
+  Information Technology System Administrator       0.50      1.00      0.67         1
+            Information Technology Technician       0.00      0.00      0.00         1
+                              Sales Associate       0.00      0.00      0.00         1
+                                Sales Manager       0.50      0.50      0.50         2
+                                  Salesperson       0.00      0.00      0.00         2
+                     Seasonal Sales Associate       1.00      1.00      1.00         1
+      Senior Human Resources Business Partner       0.00      0.00      0.00         1
+Senior Information Technology Project Manager       0.00      0.00      0.00         1
+                       Vice President Finance       0.00      0.00      0.00         1
+
+                                     accuracy                           0.29        77
+                                    macro avg       0.23      0.25      0.22        77
+                                 weighted avg       0.30      0.29      0.27        77

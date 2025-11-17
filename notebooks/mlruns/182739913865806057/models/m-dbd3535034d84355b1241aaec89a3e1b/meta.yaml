@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/182739913865806057/models/m-dbd3535034d84355b1241aaec89a3e1b/artifacts
+creation_timestamp: 1763405767169
+experiment_id: '182739913865806057'
+last_updated_timestamp: 1763405771639
+model_id: m-dbd3535034d84355b1241aaec89a3e1b
+model_type: null
+name: xgb_job_title_recommender_model
+source_run_id: daf72fab86364a8c86323c17953b01d1
+status: 2
+status_message: null

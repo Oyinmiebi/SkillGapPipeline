@@ -1,0 +1,68 @@
+                                                                                         precision    recall  f1-score   support
+
+                                                   Business Development (Sales) Manager       0.00      0.00      0.00         1
+                                                         Business Development Associate       0.00      0.00      0.00         1
+                                             Business Development Center Representative       0.00      0.00      0.00         1
+                                                          Business Development Director       0.00      0.00      0.00         1
+                                                         Business Development Executive       0.50      0.55      0.52        11
+                                                            Business Development Intern       0.40      0.57      0.47         7
+                                                           Business Development Manager       0.00      0.00      0.00         2
+                                                    Business Development Representative       0.00      0.00      0.00         1
+                                                        Business Development Specialist       0.00      0.00      0.00         3
+                                                           Chief Human Resource Officer       0.00      0.00      0.00         1
+                                                       Director of Business Development       0.67      1.00      0.80         2
+                                                                    Director of Finance       0.00      0.00      0.00         1
+                                                     Director of Finance And Accounting       1.00      1.00      1.00         1
+                                                            Director of Human Resources       0.00      0.00      0.00         1
+                                                     Director of Information Technology       0.00      0.00      0.00         1
+                                                        Director of Sales and Marketing       0.33      0.33      0.33         3
+                                                              Director, Human Resources       0.00      0.00      0.00         1
+                                           Entry-level Information Technology (IT) Role       0.00      0.00      0.00         1
+                                                                        Finance Analyst       0.50      0.50      0.50         2
+                                                                      Finance Associate       0.00      0.00      0.00         3
+                                                                       Finance Director       0.33      0.50      0.40         2
+                                                                        Finance Manager       0.50      0.50      0.50         2
+                                                                 Finance Project Leader       0.50      0.86      0.63         7
+                                                                Finance Project Manager       0.00      0.00      0.00         1
+                                                              Human Resource Generalist       0.50      0.50      0.50         6
+                                                                 Human Resource Manager       0.00      0.00      0.00         2
+                                                          Human Resources Administrator       0.00      0.00      0.00         1
+                                                              Human Resources Assistant       0.00      0.00      0.00         1
+                                                       Human Resources Business Partner       0.00      0.00      0.00         1
+                                                            Human Resources Coordinator       1.00      1.00      1.00         1
+                                                               Human Resources Director       0.00      0.00      0.00         1
+                                                             Human Resources Generalist       0.00      0.00      0.00         2
+                                         Human Resources Information System Partner III       0.00      0.00      0.00         1
+                                          Human Resources Information System Specialist       0.33      0.50      0.40         2
+                                                                 Human Resources Intern       0.50      0.50      0.50         2
+                                                                Human Resources Manager       0.00      0.00      0.00         1
+                                                        Human Resources Project Manager       1.00      1.00      1.00         1
+                                                             Human Resources Specialist       1.00      0.50      0.67         2
+                                                   Information Technology Administrator       0.00      0.00      0.00         1
+                                             Information Technology Application Manager       0.20      0.33      0.25         3
+                                                   Information Technology Asset Manager       0.00      0.00      0.00         1
+                                                         Information Technology Auditor       1.00      1.00      1.00         1
+                                                Information Technology Business Analyst       0.00      0.00      0.00         1
+                                             Information Technology Business Consultant       0.00      0.00      0.00         1
+                                                      Information Technology Consultant       0.00      0.00      0.00         1
+                                                       Information Technology Help Desk       0.00      0.00      0.00         1
+                                                         Information Technology Manager       0.00      0.00      0.00         1
+                                           Information Technology Network Administrator       1.00      1.00      1.00         1
+                                              Information Technology Operations Manager       0.00      0.00      0.00         1
+                                                 Information Technology Program Manager       0.00      0.00      0.00         1
+                                             Information Technology Project Coordinator       0.67      1.00      0.80         2
+                                                 Information Technology Project Manager       0.50      1.00      0.67         1
+                                          Information Technology Security Administrator       0.00      0.00      0.00         1
+                                                Information Technology Security Analyst       1.00      0.50      0.67         2
+                                                Information Technology Sourcing Manager       1.00      1.00      1.00         1
+                                                      Information Technology Specialist       0.00      0.00      0.00         1
+                                                 Information Technology Support Analyst       0.00      0.00      0.00         1
+                                                Information Technology Support Engineer       0.00      0.00      0.00         1
+                                              Information Technology Support Specialist       0.00      0.00      0.00         1
+                       Information Technology Support Specialist (Active TS/SCI /wPoly)       0.00      0.00      0.00         1
+                                              Information Technology Support Technician       0.00      0.00      0.00         1
+                                            Information Technology System Administrator       0.00      0.00      0.00         1
+
+                                                                              micro avg       0.39      0.36      0.37       109
+                                                                              macro avg       0.23      0.25      0.24       109
+                                                                           weighted avg       0.31      0.36      0.32       109

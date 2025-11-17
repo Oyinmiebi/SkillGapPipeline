@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/182739913865806057/87f9592ac0c9467e8b8735286b66352d/artifacts
+end_time: 1763385129519
+entry_point_name: ''
+experiment_id: '182739913865806057'
+lifecycle_stage: active
+run_id: 87f9592ac0c9467e8b8735286b66352d
+run_name: wistful-stag-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763380541833
+status: 4
+tags: []
+user_id: ebina

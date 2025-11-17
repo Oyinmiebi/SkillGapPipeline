@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/182739913865806057/f611f785cc0a4fea93e866a123a13d3a/artifacts
+end_time: 1763380186997
+entry_point_name: ''
+experiment_id: '182739913865806057'
+lifecycle_stage: active
+run_id: f611f785cc0a4fea93e866a123a13d3a
+run_name: Hyperparameter tuning for models
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763380183701
+status: 3
+tags: []
+user_id: ebina

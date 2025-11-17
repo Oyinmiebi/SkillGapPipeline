@@ -1,0 +1,32 @@
+artifact_path: file:///C:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/280469312745769914/models/m-c570d7d9d74a43d296578a53b0e124ad/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.11
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-c570d7d9d74a43d296578a53b0e124ad
+model_size_bytes: 10448482
+model_uuid: m-c570d7d9d74a43d296578a53b0e124ad
+prompts: null
+run_id: 3ad16d653732414f9ab21f7fb5d7db53
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "str", "shape": [-1]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-17 14:37:50.916943'

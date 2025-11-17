@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/182739913865806057/models/m-9d78cd3dd672492d95f22d1c08350fd6/artifacts
+creation_timestamp: 1763380165135
+experiment_id: '182739913865806057'
+last_updated_timestamp: 1763380172482
+model_id: m-9d78cd3dd672492d95f22d1c08350fd6
+model_type: null
+name: model
+source_run_id: ccf15e6dccf949b4909d243a317ffd1d
+status: 2
+status_message: null

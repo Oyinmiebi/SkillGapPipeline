@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/182739913865806057/models/m-f87af48ba7a3415188965b74a8872256/artifacts
+creation_timestamp: 1763380180097
+experiment_id: '182739913865806057'
+last_updated_timestamp: 1763380183657
+model_id: m-f87af48ba7a3415188965b74a8872256
+model_type: null
+name: best_estimator
+source_run_id: ccf15e6dccf949b4909d243a317ffd1d
+status: 2
+status_message: null

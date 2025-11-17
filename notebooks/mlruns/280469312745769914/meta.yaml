@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/280469312745769914
+creation_time: 1763388136750
+experiment_id: '280469312745769914'
+last_update_time: 1763388136750
+lifecycle_stage: active
+name: job_title_from_skills_xgb

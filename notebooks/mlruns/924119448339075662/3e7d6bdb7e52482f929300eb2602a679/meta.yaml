@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/924119448339075662/3e7d6bdb7e52482f929300eb2602a679/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '924119448339075662'
+lifecycle_stage: active
+run_id: 3e7d6bdb7e52482f929300eb2602a679
+run_name: trusting-pug-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763299418685
+status: 1
+tags: []
+user_id: ebina

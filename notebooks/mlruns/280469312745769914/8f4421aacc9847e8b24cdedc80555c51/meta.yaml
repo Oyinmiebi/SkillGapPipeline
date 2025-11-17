@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/280469312745769914/8f4421aacc9847e8b24cdedc80555c51/artifacts
+end_time: 1763388266314
+entry_point_name: ''
+experiment_id: '280469312745769914'
+lifecycle_stage: active
+run_id: 8f4421aacc9847e8b24cdedc80555c51
+run_name: xgb_job_title_recommender
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763388247556
+status: 3
+tags: []
+user_id: ebina

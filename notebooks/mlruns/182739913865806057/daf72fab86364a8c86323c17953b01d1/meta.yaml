@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/182739913865806057/daf72fab86364a8c86323c17953b01d1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '182739913865806057'
+lifecycle_stage: active
+run_id: daf72fab86364a8c86323c17953b01d1
+run_name: funny-penguin-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763405747678
+status: 1
+tags: []
+user_id: ebina

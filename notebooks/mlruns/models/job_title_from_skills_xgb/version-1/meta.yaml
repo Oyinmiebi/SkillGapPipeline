@@ -1,0 +1,15 @@
+creation_timestamp: 1763388266210
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1763388266210
+model_id: m-9b2d12bf9ee54aa3aa9c7592d2e68717
+name: job_title_from_skills_xgb
+run_id: 8f4421aacc9847e8b24cdedc80555c51
+run_link: null
+source: models:/m-9b2d12bf9ee54aa3aa9c7592d2e68717
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/280469312745769914/models/m-9b2d12bf9ee54aa3aa9c7592d2e68717/artifacts
+user_id: null
+version: 1

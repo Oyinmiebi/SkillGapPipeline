@@ -1,0 +1,39 @@
+{
+  "Business Development Manager": {
+    "precision": 0.6923076923076923,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.75,
+    "support": 11.0
+  },
+  "Business Development Representative": {
+    "precision": 0.2857142857142857,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.3076923076923077,
+    "support": 6.0
+  },
+  "Human Resources Generalist": {
+    "precision": 0.3333333333333333,
+    "recall": 0.14285714285714285,
+    "f1-score": 0.2,
+    "support": 7.0
+  },
+  "Human Resources Manager": {
+    "precision": 0.42857142857142855,
+    "recall": 0.5,
+    "f1-score": 0.46153846153846156,
+    "support": 6.0
+  },
+  "accuracy": 0.5,
+  "macro avg": {
+    "precision": 0.434981684981685,
+    "recall": 0.4485930735930736,
+    "f1-score": 0.42980769230769234,
+    "support": 30.0
+  },
+  "weighted avg": {
+    "precision": 0.4744810744810744,
+    "recall": 0.5,
+    "f1-score": 0.4755128205128205,
+    "support": 30.0
+  }
+}

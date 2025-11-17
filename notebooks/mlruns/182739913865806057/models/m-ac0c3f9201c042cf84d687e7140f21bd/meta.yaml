@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ebina/Documents/GitHub/SkillGapPipeline/notebooks/mlruns/182739913865806057/models/m-ac0c3f9201c042cf84d687e7140f21bd/artifacts
+creation_timestamp: 1763380183765
+experiment_id: '182739913865806057'
+last_updated_timestamp: 1763380186983
+model_id: m-ac0c3f9201c042cf84d687e7140f21bd
+model_type: null
+name: tuned-xgb_model
+source_run_id: f611f785cc0a4fea93e866a123a13d3a
+status: 2
+status_message: null
